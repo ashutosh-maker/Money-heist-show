@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0px;
+}
+a {
+  color: white;
+}
+.q1 {
+  background: black;
+  color: white;
+  font-size: xx-large;
+  display: flex;
+  height: 40px;
+  justify-content: space-around;
+}

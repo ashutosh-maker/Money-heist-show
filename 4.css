@@ -1,0 +1,24 @@
+body,
+html {
+  background-image: linear-gradient(
+      rgba(230, 180, 180, 0.7),
+      rgba(105, 6, 6, 0.7)
+    ),
+    url("professor.jpg");
+  margin: 0px;
+}
+
+.four {
+  background: red;
+  width: 500px;
+  height: 70px;
+  margin: auto;
+  margin-bottom: 10px;
+  font-size: 50px;
+  text-align: center;
+  border: 10px black solid;
+  border-radius: 20px;
+  color: white;
+  font-family: cursive;
+  font-weight: bold;
+}
